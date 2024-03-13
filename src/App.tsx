@@ -23,7 +23,8 @@ function App() {
             color: 'green',
           }}
         >
-          nu am mai sters <strong>base u</strong>
+          nu am mai sters <strong>base u</strong>, am scos al 2lea '/' din
+          '/dply1/'
         </p>
         <button onClick={() => setCount(count => count + 1)}>
           count is {count}
